@@ -3,6 +3,6 @@ package com.dhcc.test;
 public class Test {
 	public static void main(String[] args) {
 		System.out.println("git demo");
-		System.out.println("Ìí¼ÓÒ»ĞĞ´òÓ¡");
+		System.out.println("æ·»åŠ ä¸€è¡Œæ‰“å°");
 	}
 }
